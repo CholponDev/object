@@ -12,3 +12,5 @@ kidChopa.class = "student"
 kidChopa.hobby = "learn languages"
 growth = 1.63,
 favoriteSubject = "english"
+
+console.log(kidChopa)
